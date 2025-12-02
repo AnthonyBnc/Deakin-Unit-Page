@@ -16,4 +16,11 @@ p {
   font-family: Arial
 }
 
+.logo-container {
+  background-color: darkcyan;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  padding: 10px;
+}
 
